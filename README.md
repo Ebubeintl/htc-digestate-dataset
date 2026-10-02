@@ -2,7 +2,7 @@
 
 Supplementary material for the article "Hydrothermal carbonization-assisted dewatering of cattle manure digestate: compression mechanisms and phosphorus and potassium partitioning for integrated valorization" (Waste and Biomass Valorization, submitted).
 
-Authors: Ebube Daniel Ezeokolie, Teemu Kinnarinen, Kristian Melin (LUT University, Finland)
+Authors: Ebube Daniel Ezeokolie, Orlando Salcedo, Teemu Kinnarinen, Kristian Melin (LUT University, Finland)
 Contact: ebubedaniel04@gmail.com
 
 ## Files
