@@ -1,0 +1,15 @@
+{
+  "upload_type": "dataset",
+  "title": "Supplementary data for: Hydrothermal carbonization-assisted dewatering of cattle manure digestate: compression mechanisms and phosphorus and potassium partitioning",
+  "description": "Supplementary material (Online Resources 1 and 2) for a study of hydrothermal carbonization (125.9-294.1 °C, 39.5-140.5 min, 1.59-18.41% total solids) of cattle manure digestate followed by piston-press dewatering (50-200 bar). Includes the full central composite design dataset, press data, solid and process-water analyses (ash, VS, pH, EC, TOC, TN, K, PO4), FTIR spectra, SEM micrographs and point EDS compositions.",
+  "creators": [
+    {"name": "Ezeokolie, Ebube Daniel", "affiliation": "LUT University"},
+    {"name": "Orlando Salcedo", "affiliation":"LUT University"},
+    {"name": "Kinnarinen, Teemu", "affiliation": "LUT University"},
+    {"name": "Melin, Kristian", "affiliation": "LUT University"}
+  ],
+  "keywords": ["Hydrothermal carbonization", "Digestate", "Dewatering", "Hydrochar", "Phosphorus recovery", "Cattle manure"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}
